@@ -1,3 +1,3 @@
-Hola me llamo Ivan, deloveloper web
+Hola me llamo Ivan, developer web
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![Lenguajes](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,)](https://skillicons.dev)
